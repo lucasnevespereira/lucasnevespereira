@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm Lucas, a software developer from Paris, France.
+I'm Lucas, a software developer living in Paris, France.
 <!-- I seek to deepen my knowledge and skills on a daily basis, and I truly believe that one of the best ways to learn is by helping other developers, like myself, address issues. -->
 🚀 Building software and embracing continuous learning<br>
 🤝 Open to exciting collaboration opportunities<br>
