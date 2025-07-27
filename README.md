@@ -1,11 +1,17 @@
-### Hello there 👋
+# hey, I'm lucas 👋
 
-Building open source, learning as I go.
+building open source  
+learning as i go
 
-- Software Engineer (Go, TypeScript)
-- Created [barecms.dev](https://barecms.dev), [gituser](https://github.com/lucasnevespereira/go-gituser)
-- Helping out at [workout-cool](https://github.com/Snouzy/workout-cool)
-- Cold weather enthusiast & mountain hiker
-- From Portugal, now in Paris
+- go · typescript  
+- [barecms.dev](https://barecms.dev)  
+- [gituser](https://github.com/lucasnevespereira/go-gituser)  
+- [workout-cool](https://github.com/Snouzy/workout-cool)
 
-[lucasnp.dev](https://lucasnp.dev) · [x.com/lucaasnp](https://x.com/lucaasnp) · [youtube.com/@lucaasnp](https://www.youtube.com/@lucaasnp)
+❄️ from portugal, based in paris
+
+---
+
+[lucasnp.dev](https://lucasnp.dev)  
+[x.com/lucaasnp](https://x.com/lucaasnp)  
+[youtube.com/@lucaasnp](https://www.youtube.com/@lucaasnp)
