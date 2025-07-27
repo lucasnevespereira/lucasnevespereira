@@ -1,4 +1,4 @@
-## hello there 
+## hello there 👋
 
-backend engineer · open source builder  
-from portugal → living in paris
+building open source, learning as i go  
+mountains and cold air
